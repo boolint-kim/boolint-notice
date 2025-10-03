@@ -1,7 +1,7 @@
 {
   "hasMessage": true,
   "kr": {
-    "title": "긴급공지",
+    "title": "긴 급공지",
     "message": "현재 API 서버 점검 중입니다.\n불편을 드려 죄송합니다.",
     "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
     "isBlocking": false,
