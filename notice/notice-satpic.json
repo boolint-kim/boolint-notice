@@ -1,0 +1,113 @@
+{
+  "hasMessage": true,
+  "kr": {
+    "title": "긴급공지",
+    "message": "현재 API 서버 점검 중입니다.\n불편을 드려 죄송합니다.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
+      { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
+      { "text": "확인", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "en": {
+    "title": "Emergency Notice",
+    "message": "API server is currently under maintenance.\nWe apologize for the inconvenience.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
+      { "text": "Don't show today", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "jp": {
+    "title": "緊急のお知らせ",
+    "message": "現在APIサーバーメンテナンス中です。\nご不便をおかけして申し訳ございません。",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
+      { "text": "今日は表示しない", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "tw": {
+    "title": "緊急通知",
+    "message": "API伺服器目前正在維護中。\n造成不便，敬請見諒。",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "不再顯示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不顯示", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "cn": {
+    "title": "紧急通知",
+    "message": "API服务器目前正在维护中。\n给您带来不便，敬请谅解。",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "不再显示", "action": "hide_forever", "isPrimary": false },
+      { "text": "今天不显示", "action": "hide_today", "isPrimary": false },
+      { "text": "确认", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "no": {
+    "title": "Hastemelding",
+    "message": "API-serveren er for øyeblikket under vedlikehold.\nVi beklager ulempen.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/NO/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Ikke vis i dag", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "th": {
+    "title": "ประกาศด่วน",
+    "message": "ขณะนี้เซิร์ฟเวอร์ API อยู่ระหว่างการบำรุงรักษา\nขออภัยในความไม่สะดวก",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/TH/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "ไม่ต้องแสดงอีก", "action": "hide_forever", "isPrimary": false },
+      { "text": "ไม่ต้องแสดงวันนี้", "action": "hide_today", "isPrimary": false },
+      { "text": "ตกลง", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "my": {
+    "title": "Notis Kecemasan",
+    "message": "Pelayan API sedang dalam penyelenggaraan.\nKami memohon maaf atas kesulitan ini.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/MY/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Jangan tunjuk lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tunjuk hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "id": {
+    "title": "Pemberitahuan Darurat",
+    "message": "Server API sedang dalam pemeliharaan.\nKami mohon maaf atas ketidaknyamanan ini.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/ID/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Jangan tampilkan lagi", "action": "hide_forever", "isPrimary": false },
+      { "text": "Jangan tampilkan hari ini", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "de": {
+    "title": "Dringende Mitteilung",
+    "message": "Der API-Server wird derzeit gewartet.\nWir entschuldigen uns für die Unannehmlichkeiten.",
+    "imageUrl": "http://wko.boolint.com:8080/repository/image/DE/notice/maintenance.png",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Heute nicht mehr anzeigen", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  }
+}
