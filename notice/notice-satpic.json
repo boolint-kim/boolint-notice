@@ -1,9 +1,9 @@
 {
   "hasMessage": true,
   "kr": {
-    "title": "긴 급공지",
-    "message": "현재 API 서버 점검 중입니다.\n불편을 드려 죄송합니다.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "title": "이용안내",
+    "message": "데이터센터 화재로 인해 일부 API 서비스가 중단되었습니다.\n정상화되는 대로 다시 알려드리겠습니다.\n이용에 불편을 드려 죄송하며 양해 부탁드립니다.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
@@ -12,9 +12,9 @@
     ]
   },
   "en": {
-    "title": "Emergency Notice",
-    "message": "API server is currently under maintenance.\nWe apologize for the inconvenience.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "title": "Service Notice",
+    "message": "Some API services are temporarily suspended due to a data center fire.\nWe will inform you once they are restored.\nWe apologize for the inconvenience and appreciate your understanding.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
@@ -23,9 +23,9 @@
     ]
   },
   "jp": {
-    "title": "緊急のお知らせ",
-    "message": "現在APIサーバーメンテナンス中です。\nご不便をおかけして申し訳ございません。",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "title": "ご利用案内",
+    "message": "データセンター火災の影響で一部のAPIサービスが停止しております。\n復旧次第、改めてお知らせいたします。\nご不便をおかけして申し訳ございませんが、ご理解のほどお願いいたします。",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
@@ -34,9 +34,9 @@
     ]
   },
   "tw": {
-    "title": "緊急通知",
-    "message": "API伺服器目前正在維護中。\n造成不便，敬請見諒。",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "title": "使用通知",
+    "message": "由於資料中心火災，部分API服務暫時中斷。\n待恢復後將再次通知您。\n造成不便，敬請見諒並感謝您的理解。",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "不再顯示", "action": "hide_forever", "isPrimary": false },
@@ -45,9 +45,9 @@
     ]
   },
   "cn": {
-    "title": "紧急通知",
-    "message": "API服务器目前正在维护中。\n给您带来不便，敬请谅解。",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/KR/notice/maintenance.png",
+    "title": "使用通知",
+    "message": "由于数据中心火灾，部分API服务暂时中断。\n恢复后我们会再次通知您。\n给您带来不便，敬请谅解并感谢您的理解。",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "不再显示", "action": "hide_forever", "isPrimary": false },
@@ -56,9 +56,9 @@
     ]
   },
   "no": {
-    "title": "Hastemelding",
-    "message": "API-serveren er for øyeblikket under vedlikehold.\nVi beklager ulempen.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/NO/notice/maintenance.png",
+    "title": "Bruksinformasjon",
+    "message": "Noen API-tjenester er midlertidig utilgjengelige på grunn av en brann i datasenteret.\nVi vil informere deg når de er gjenopprettet.\nVi beklager ulempen og takker for forståelsen.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
@@ -67,9 +67,9 @@
     ]
   },
   "th": {
-    "title": "ประกาศด่วน",
-    "message": "ขณะนี้เซิร์ฟเวอร์ API อยู่ระหว่างการบำรุงรักษา\nขออภัยในความไม่สะดวก",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/TH/notice/maintenance.png",
+    "title": "ประกาศการใช้งาน",
+    "message": "บริการ API บางส่วนหยุดชั่วคราวเนื่องจากเหตุเพลิงไหม้ศูนย์ข้อมูล\nเราจะแจ้งให้ทราบอีกครั้งเมื่อบริการกลับมาเป็นปกติ\nขออภัยในความไม่สะดวกและขอขอบคุณสำหรับความเข้าใจ",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "ไม่ต้องแสดงอีก", "action": "hide_forever", "isPrimary": false },
@@ -78,9 +78,9 @@
     ]
   },
   "my": {
-    "title": "Notis Kecemasan",
-    "message": "Pelayan API sedang dalam penyelenggaraan.\nKami memohon maaf atas kesulitan ini.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/MY/notice/maintenance.png",
+    "title": "Makluman Perkhidmatan",
+    "message": "Beberapa perkhidmatan API tergendala sementara akibat kebakaran pusat data.\nKami akan memaklumkan semula setelah dipulihkan.\nKami memohon maaf atas kesulitan ini dan menghargai pemahaman anda.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "Jangan tunjuk lagi", "action": "hide_forever", "isPrimary": false },
@@ -89,9 +89,9 @@
     ]
   },
   "id": {
-    "title": "Pemberitahuan Darurat",
-    "message": "Server API sedang dalam pemeliharaan.\nKami mohon maaf atas ketidaknyamanan ini.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/ID/notice/maintenance.png",
+    "title": "Pemberitahuan Layanan",
+    "message": "Beberapa layanan API dihentikan sementara karena kebakaran pusat data.\nKami akan memberi tahu Anda setelah layanan dipulihkan.\nKami mohon maaf atas ketidaknyamanan ini dan menghargai pengertian Anda.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "Jangan tampilkan lagi", "action": "hide_forever", "isPrimary": false },
@@ -100,9 +100,9 @@
     ]
   },
   "de": {
-    "title": "Dringende Mitteilung",
-    "message": "Der API-Server wird derzeit gewartet.\nWir entschuldigen uns für die Unannehmlichkeiten.",
-    "imageUrl": "http://wko.boolint.com:8080/repository/image/DE/notice/maintenance.png",
+    "title": "Nutzungsinformation",
+    "message": "Einige API-Dienste sind aufgrund eines Brandes im Rechenzentrum vorübergehend unterbrochen.\nWir informieren Sie, sobald sie wiederhergestellt sind.\nWir entschuldigen uns für die Unannehmlichkeiten und danken für Ihr Verständnis.",
+    "imageUrl": "",
     "isBlocking": false,
     "buttons": [
       { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
