@@ -1,0 +1,58 @@
+{
+  "hasMessage": true,
+  "kr": {
+    "title": "이용안내",
+    "message": "이용안내.",
+    "imageUrl": "",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
+      { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
+      { "text": "확인", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "en": {
+    "title": "Service Notice",
+    "message": "Service Notice.",
+    "imageUrl": "",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
+      { "text": "Don't show today", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "jp": {
+    "title": "ご利用案内",
+    "message": "ご利用案内。",
+    "imageUrl": "",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
+      { "text": "今日は表示しない", "action": "hide_today", "isPrimary": false },
+      { "text": "確認", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "no": {
+    "title": "Bruksinformasjon",
+    "message": "Bruksinformasjon.",
+    "imageUrl": "",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Ikke vis i dag", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  },
+  "de": {
+    "title": "Nutzungsinformation",
+    "message": "Nutzungsinformation.",
+    "imageUrl": "",
+    "isBlocking": false,
+    "buttons": [
+      { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
+      { "text": "Heute nicht mehr anzeigen", "action": "hide_today", "isPrimary": false },
+      { "text": "OK", "action": "dismiss", "isPrimary": true }
+    ]
+  }
+}
