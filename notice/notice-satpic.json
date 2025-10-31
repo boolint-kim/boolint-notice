@@ -1,8 +1,8 @@
 {
   "hasMessage": true,
   "kr": {
-    "title": "이용안내",
-    "message": "데이터센터 화재로 인해 일부 API 서비스가 중단되었습니다.\n정상화되는 대로 다시 알려드리겠습니다.\n이용에 불편을 드려 죄송하며 양해 부탁드립니다.",
+    "title": "API 서비스가 복구 중입니다",
+    "message": "날씨예보 메뉴 오류",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -12,8 +12,8 @@
     ]
   },
   "en": {
-    "title": "Service Notice",
-    "message": "Some API services are temporarily suspended due to a data center fire.\nWe will inform you once they are restored.\nWe apologize for the inconvenience and appreciate your understanding.",
+    "title": "API service is being restored",
+    "message": "Weather Forecast menu error",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -23,8 +23,8 @@
     ]
   },
   "jp": {
-    "title": "ご利用案内",
-    "message": "データセンター火災の影響で一部のAPIサービスが停止しております。\n復旧次第、改めてお知らせいたします。\nご不便をおかけして申し訳ございませんが、ご理解のほどお願いいたします。",
+    "title": "APIサービスを復旧中です",
+    "message": "天気予報メニューのエラー",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -34,8 +34,8 @@
     ]
   },
   "tw": {
-    "title": "使用通知",
-    "message": "由於資料中心火災，部分API服務暫時中斷。\n待恢復後將再次通知您。\n造成不便，敬請見諒並感謝您的理解。",
+    "title": "API 服務修復中",
+    "message": "天氣預報選單錯誤",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -45,8 +45,8 @@
     ]
   },
   "cn": {
-    "title": "使用通知",
-    "message": "由于数据中心火灾，部分API服务暂时中断。\n恢复后我们会再次通知您。\n给您带来不便，敬请谅解并感谢您的理解。",
+    "title": "API 服务修复中",
+    "message": "天气预报菜单错误",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -56,8 +56,8 @@
     ]
   },
   "no": {
-    "title": "Bruksinformasjon",
-    "message": "Noen API-tjenester er midlertidig utilgjengelige på grunn av en brann i datasenteret.\nVi vil informere deg når de er gjenopprettet.\nVi beklager ulempen og takker for forståelsen.",
+    "title": "API-tjenesten gjenopprettes",
+    "message": "Feil i værvarselmenyen",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -67,8 +67,8 @@
     ]
   },
   "th": {
-    "title": "ประกาศการใช้งาน",
-    "message": "บริการ API บางส่วนหยุดชั่วคราวเนื่องจากเหตุเพลิงไหม้ศูนย์ข้อมูล\nเราจะแจ้งให้ทราบอีกครั้งเมื่อบริการกลับมาเป็นปกติ\nขออภัยในความไม่สะดวกและขอขอบคุณสำหรับความเข้าใจ",
+    "title": "กำลังกู้คืนบริการ API",
+    "message": "ข้อผิดพลาดเมนูพยากรณ์อากาศ",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -78,8 +78,8 @@
     ]
   },
   "my": {
-    "title": "Makluman Perkhidmatan",
-    "message": "Beberapa perkhidmatan API tergendala sementara akibat kebakaran pusat data.\nKami akan memaklumkan semula setelah dipulihkan.\nKami memohon maaf atas kesulitan ini dan menghargai pemahaman anda.",
+    "title": "Perkhidmatan API sedang dipulihkan",
+    "message": "Ralat menu Ramalan Cuaca",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -89,8 +89,8 @@
     ]
   },
   "id": {
-    "title": "Pemberitahuan Layanan",
-    "message": "Beberapa layanan API dihentikan sementara karena kebakaran pusat data.\nKami akan memberi tahu Anda setelah layanan dipulihkan.\nKami mohon maaf atas ketidaknyamanan ini dan menghargai pengertian Anda.",
+    "title": "Layanan API sedang dipulihkan",
+    "message": "Kesalahan menu Prakiraan Cuaca",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
@@ -100,8 +100,8 @@
     ]
   },
   "de": {
-    "title": "Nutzungsinformation",
-    "message": "Einige API-Dienste sind aufgrund eines Brandes im Rechenzentrum vorübergehend unterbrochen.\nWir informieren Sie, sobald sie wiederhergestellt sind.\nWir entschuldigen uns für die Unannehmlichkeiten und danken für Ihr Verständnis.",
+    "title": "API-Dienst wird wiederhergestellt",
+    "message": "Fehler im Wettervorhersage-Menü",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
