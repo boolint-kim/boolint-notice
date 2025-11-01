@@ -1,8 +1,8 @@
 {
   "hasMessage": true,
   "kr": {
-    "title": "공공 데이터 API 서비스가 복구 중입니다",
-    "message": "날씨예보 기능 이용이 원활하지 않습니다",
+    "title": "이용안내",
+    "message": "공공 데이터 API 서비스가 복구 중입니다.\n* 날씨예보 기능 이용이 원활하지 않습니다",
     "imageUrl": "",
     "isBlocking": false,
     "buttons": [
