@@ -1,8 +1,12 @@
 {
-  "hasMessage": true,
+  "hasMessage": {
+    "android": true,
+    "ios": false
+  },
   "isBlocking": false,
   "imageUrl": "",
-  "url": "",
+  "androidUrl": "",
+  "iosUrl": "",
   "kr": {
     "title": "새로운 버전 2.5 출시",
     "message": "새로운 기능이 추가되었습니다.\n• API 안정성 개선\n• 날씨 정확도 향상\n• 새로운 디자인 적용",
