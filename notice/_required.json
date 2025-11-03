@@ -1,8 +1,12 @@
 {
-  "hasMessage": true,
+  "hasMessage": {
+    "android": true,
+    "ios": false
+  },
   "isBlocking": true,
   "imageUrl": "",
-  "url": "",
+  "androidUrl": "",
+  "iosUrl": "",
   "kr": {
     "title": "필수 업데이트 안내",
     "message": "보안 및 안정성 개선을 위해 필수 업데이트가 필요합니다.\n지금 업데이트해 주세요.",
