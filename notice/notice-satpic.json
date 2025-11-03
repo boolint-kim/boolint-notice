@@ -1,113 +1,76 @@
 {
   "hasMessage": true,
+  "isBlocking": true,
+  "imageUrl": "",
+  "url": "",
   "kr": {
-    "title": "이용안내",
-    "message": "공공 데이터 API 서비스가 복구 중입니다.\n* 날씨예보 기능 이용이 원활하지 않습니다",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "필수 업데이트 안내",
+    "message": "보안 및 안정성 개선을 위해 필수 업데이트가 필요합니다.\n지금 업데이트해 주세요.",
     "buttons": [
-      { "text": "더이상 보지 않기", "action": "hide_forever", "isPrimary": false },
-      { "text": "오늘 그만 보기", "action": "hide_today", "isPrimary": false },
-      { "text": "확인", "action": "dismiss", "isPrimary": true }
+      { "text": "업데이트", "action": "open_url", "isPrimary": true }
     ]
   },
   "en": {
-    "title": "API service is being restored",
-    "message": "Weather Forecast menu error",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "Required Update",
+    "message": "A critical update is required for security and stability.\nPlease update now.",
     "buttons": [
-      { "text": "Don't show again", "action": "hide_forever", "isPrimary": false },
-      { "text": "Don't show today", "action": "hide_today", "isPrimary": false },
-      { "text": "OK", "action": "dismiss", "isPrimary": true }
+      { "text": "Update Now", "action": "open_url", "isPrimary": true }
     ]
   },
   "jp": {
-    "title": "APIサービスを復旧中です",
-    "message": "天気予報メニューのエラー",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "必須アップデート",
+    "message": "セキュリティと安定性のために必須のアップデートが必要です。\n今すぐアップデートしてください。",
     "buttons": [
-      { "text": "今後表示しない", "action": "hide_forever", "isPrimary": false },
-      { "text": "今日は表示しない", "action": "hide_today", "isPrimary": false },
-      { "text": "確認", "action": "dismiss", "isPrimary": true }
+      { "text": "アップデート", "action": "open_url", "isPrimary": true }
     ]
   },
   "tw": {
-    "title": "API 服務修復中",
-    "message": "天氣預報選單錯誤",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "必要更新",
+    "message": "為了安全性和穩定性，需要進行必要更新。\n請立即更新。",
     "buttons": [
-      { "text": "不再顯示", "action": "hide_forever", "isPrimary": false },
-      { "text": "今天不顯示", "action": "hide_today", "isPrimary": false },
-      { "text": "確認", "action": "dismiss", "isPrimary": true }
+      { "text": "立即更新", "action": "open_url", "isPrimary": true }
     ]
   },
   "cn": {
-    "title": "API 服务修复中",
-    "message": "天气预报菜单错误",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "必需更新",
+    "message": "为了安全性和稳定性，需要进行必需更新。\n请立即更新。",
     "buttons": [
-      { "text": "不再显示", "action": "hide_forever", "isPrimary": false },
-      { "text": "今天不显示", "action": "hide_today", "isPrimary": false },
-      { "text": "确认", "action": "dismiss", "isPrimary": true }
+      { "text": "立即更新", "action": "open_url", "isPrimary": true }
     ]
   },
   "no": {
-    "title": "API-tjenesten gjenopprettes",
-    "message": "Feil i værvarselmenyen",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "Nødvendig oppdatering",
+    "message": "En kritisk oppdatering kreves for sikkerhet og stabilitet.\nVennligst oppdater nå.",
     "buttons": [
-      { "text": "Ikke vis igjen", "action": "hide_forever", "isPrimary": false },
-      { "text": "Ikke vis i dag", "action": "hide_today", "isPrimary": false },
-      { "text": "OK", "action": "dismiss", "isPrimary": true }
+      { "text": "Oppdater nå", "action": "open_url", "isPrimary": true }
     ]
   },
   "th": {
-    "title": "กำลังกู้คืนบริการ API",
-    "message": "ข้อผิดพลาดเมนูพยากรณ์อากาศ",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "จำเป็นต้องอัปเดต",
+    "message": "จำเป็นต้องอัปเดตเพื่อความปลอดภัยและเสถียรภาพ\nโปรดอัปเดตตอนนี้",
     "buttons": [
-      { "text": "ไม่ต้องแสดงอีก", "action": "hide_forever", "isPrimary": false },
-      { "text": "ไม่ต้องแสดงวันนี้", "action": "hide_today", "isPrimary": false },
-      { "text": "ตกลง", "action": "dismiss", "isPrimary": true }
+      { "text": "อัปเดตเลย", "action": "open_url", "isPrimary": true }
     ]
   },
   "my": {
-    "title": "Perkhidmatan API sedang dipulihkan",
-    "message": "Ralat menu Ramalan Cuaca",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "Kemas kini diperlukan",
+    "message": "Kemas kini kritikal diperlukan untuk keselamatan dan kestabilan.\nSila kemas kini sekarang.",
     "buttons": [
-      { "text": "Jangan tunjuk lagi", "action": "hide_forever", "isPrimary": false },
-      { "text": "Jangan tunjuk hari ini", "action": "hide_today", "isPrimary": false },
-      { "text": "OK", "action": "dismiss", "isPrimary": true }
+      { "text": "Kemas kini sekarang", "action": "open_url", "isPrimary": true }
     ]
   },
   "id": {
-    "title": "Layanan API sedang dipulihkan",
-    "message": "Kesalahan menu Prakiraan Cuaca",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "Pembaruan Diperlukan",
+    "message": "Pembaruan penting diperlukan untuk keamanan dan stabilitas.\nHarap perbarui sekarang.",
     "buttons": [
-      { "text": "Jangan tampilkan lagi", "action": "hide_forever", "isPrimary": false },
-      { "text": "Jangan tampilkan hari ini", "action": "hide_today", "isPrimary": false },
-      { "text": "OK", "action": "dismiss", "isPrimary": true }
+      { "text": "Perbarui Sekarang", "action": "open_url", "isPrimary": true }
     ]
   },
   "de": {
-    "title": "API-Dienst wird wiederhergestellt",
-    "message": "Fehler im Wettervorhersage-Menü",
-    "imageUrl": "",
-    "isBlocking": false,
+    "title": "Erforderliches Update",
+    "message": "Ein wichtiges Update ist für Sicherheit und Stabilität erforderlich.\nBitte jetzt aktualisieren.",
     "buttons": [
-      { "text": "Nicht mehr anzeigen", "action": "hide_forever", "isPrimary": false },
-      { "text": "Heute nicht mehr anzeigen", "action": "hide_today", "isPrimary": false },
-      { "text": "OK", "action": "dismiss", "isPrimary": true }
+      { "text": "Jetzt aktualisieren", "action": "open_url", "isPrimary": true }
     ]
   }
 }
