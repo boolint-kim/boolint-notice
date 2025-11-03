@@ -1,8 +1,12 @@
 {
-  "hasMessage": false,
+  "hasMessage": {
+    "android": true,
+    "ios": false
+  },
   "isBlocking": false,
   "imageUrl": "",
-  "url": "",
+  "androidUrl": "",
+  "iosUrl": "",
   "kr": {
     "title": "이용안내.",
     "message": "이용안내.",
