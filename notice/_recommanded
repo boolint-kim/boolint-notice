@@ -1,0 +1,86 @@
+{
+  "hasMessage": true,
+  "isBlocking": false,
+  "imageUrl": "",
+  "url": "",
+  "kr": {
+    "title": "새로운 버전 2.5 출시",
+    "message": "새로운 기능이 추가되었습니다.\n• API 안정성 개선\n• 날씨 정확도 향상\n• 새로운 디자인 적용",
+    "buttons": [
+      { "text": "나중에", "action": "hide_today", "isPrimary": false },
+      { "text": "업데이트", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "en": {
+    "title": "New Version 2.5 Available",
+    "message": "New features are now available.\n• Improved API stability\n• Enhanced weather accuracy\n• New design applied",
+    "buttons": [
+      { "text": "Later", "action": "hide_today", "isPrimary": false },
+      { "text": "Update", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "jp": {
+    "title": "新バージョン2.5リリース",
+    "message": "新機能が追加されました。\n• API安定性の向上\n• 天気予報の精度向上\n• 新しいデザイン適用",
+    "buttons": [
+      { "text": "後で", "action": "hide_today", "isPrimary": false },
+      { "text": "アップデート", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "tw": {
+    "title": "新版本2.5發佈",
+    "message": "新增了新功能。\n• API穩定性改善\n• 天氣準確度提升\n• 應用新設計",
+    "buttons": [
+      { "text": "稍後", "action": "hide_today", "isPrimary": false },
+      { "text": "更新", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "cn": {
+    "title": "新版本2.5发布",
+    "message": "新增了新功能。\n• API稳定性改善\n• 天气准确度提升\n• 应用新设计",
+    "buttons": [
+      { "text": "稍后", "action": "hide_today", "isPrimary": false },
+      { "text": "更新", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "no": {
+    "title": "Ny versjon 2.5 tilgjengelig",
+    "message": "Nye funksjoner er nå tilgjengelige.\n• Forbedret API-stabilitet\n• Forbedret værnøyaktighet\n• Nytt design",
+    "buttons": [
+      { "text": "Senere", "action": "hide_today", "isPrimary": false },
+      { "text": "Oppdater", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "th": {
+    "title": "เวอร์ชันใหม่ 2.5 พร้อมใช้งาน",
+    "message": "ฟีเจอร์ใหม่พร้อมใช้งานแล้ว\n• ปรับปรุงความเสถียรของ API\n• เพิ่มความแม่นยำของพยากรณ์อากาศ\n• ใช้ดีไซน์ใหม่",
+    "buttons": [
+      { "text": "ภายหลัง", "action": "hide_today", "isPrimary": false },
+      { "text": "อัปเดต", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "my": {
+    "title": "Versi baharu 2.5 tersedia",
+    "message": "Ciri baharu kini tersedia.\n• Kestabilan API yang lebih baik\n• Ketepatan cuaca yang lebih baik\n• Reka bentuk baharu",
+    "buttons": [
+      { "text": "Kemudian", "action": "hide_today", "isPrimary": false },
+      { "text": "Kemas kini", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "id": {
+    "title": "Versi baru 2.5 tersedia",
+    "message": "Fitur baru tersedia sekarang.\n• Stabilitas API yang lebih baik\n• Akurasi cuaca yang lebih baik\n• Desain baru diterapkan",
+    "buttons": [
+      { "text": "Nanti", "action": "hide_today", "isPrimary": false },
+      { "text": "Perbarui", "action": "open_url", "isPrimary": true }
+    ]
+  },
+  "de": {
+    "title": "Neue Version 2.5 verfügbar",
+    "message": "Neue Funktionen sind jetzt verfügbar.\n• Verbesserte API-Stabilität\n• Verbesserte Wettergenauigkeit\n• Neues Design angewendet",
+    "buttons": [
+      { "text": "Später", "action": "hide_today", "isPrimary": false },
+      { "text": "Aktualisieren", "action": "open_url", "isPrimary": true }
+    ]
+  }
+}
