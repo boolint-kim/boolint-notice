@@ -3,6 +3,10 @@
     "android": true,
     "ios": false
   },
+  "targetVersion": {
+    "android": "2.5.0",
+    "ios": "2.5.0"
+  },
   "isBlocking": true,
   "imageUrl": "",
   "androidUrl": "",
