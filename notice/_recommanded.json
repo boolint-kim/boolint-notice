@@ -4,8 +4,8 @@
     "ios": false
   },
   "targetVersion": {
-    "android": "",
-    "ios": ""
+    "android": "1.0.0",
+    "ios": "1.0.0"
   },
   "isBlocking": false,
   "imageUrl": "",
